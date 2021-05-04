@@ -11,23 +11,23 @@
                 width:200px; /* You can define it by % also */
                 height:200px; /* You can define it by % also*/
                 position:relative;
-				margin:auto;
-				margin-top:12%;
+		margin:auto;
+		top:12%;
                 border:3px solid transparent;
-				border-bottom:3px solid #16a085;
+		border-bottom:3px solid #16a085;
                 border-radius: 50%;
-				animation: spin 1.7s linear infinite;
+		animation: spin 1.7s linear infinite;
 }
 .inner-1 {
                 top: 10%; left:10%; /* of the container */
                 width:80%; /* of the outer-1 */
                 height:80%; /* of the outer-1 */
                 position: absolute;
-				border-top:1px solid #16a085;
+		border-top:1px solid #16a085;
                 border:3px solid transparent;
-				border-left:3px solid #e74c3c;
+		border-left:3px solid #e74c3c;
                 border-radius: 50%;
-				animation: spin-reverse .6s linear infinite;
+		animation: spin-reverse .6s linear infinite;
 }
 .inner-2 {
                 
@@ -36,9 +36,9 @@
                 height:60%; /* of the inner-1 */
                 position: absolute;
                 border:3px solid transparent;
-				border-top:3px solid  #f9c922;
+		border-top:3px solid  #f9c922;
                 border-radius: 50%;
-				animation: spin 1s linear infinite;
+		animation: spin 1s linear infinite;
 }
 
 @keyframes spin {
