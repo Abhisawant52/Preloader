@@ -2,6 +2,9 @@
 
 Simple page Preloader with simple usage. Built using JavaScript/CSS only.
 
+![Screenshot](preloader1.gif)
+
+
 ## Usage
 To use it you need to add this code into your html page file:
 
