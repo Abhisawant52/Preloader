@@ -5,10 +5,10 @@
                 document.querySelector(
                   "body").style.visibility = "hidden";
                 document.querySelector(
-                  "#loader").style.visibility = "visible";
+                  "#preloader").style.visibility = "visible";
             } else {
                 document.querySelector(
-                  "#loader").style.display = "none";
+                  "#preloader").style.display = "none";
                 document.querySelector(
                   "body").style.visibility = "visible";
             }
